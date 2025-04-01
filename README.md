@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I’m currently a Grad student in CS at Purdue
-- 🌱 I’m mastering concepts in Deep Learning and Natural Language Processing  
-- 💬 Ask me about french press coffee, or how to make the perfect veggie salad!
+- 🌱 I’m learning concepts in Natural Language Processing and Data engineering
+- 💬 Ask me about french press coffee!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When the system gets too buggy, I switch to debugging my muscles instead!
 
